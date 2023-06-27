@@ -1,0 +1,17 @@
+D:\Moje Pliki\Szkoła\4)Politechnika Wrocławska\Semestr 3\Programowanie_aplikacyjne_P\cw9\Golden Rider\Golden Rider\bin\Debug\Golden Rider.pdb
+D:\Moje Pliki\Szkoła\4)Politechnika Wrocławska\Semestr 3\Programowanie_aplikacyjne_P\cw9\Golden Rider\Golden Rider\obj\Debug\Golden Rider.csprojAssemblyReference.cache
+D:\Moje Pliki\Szkoła\4)Politechnika Wrocławska\Semestr 3\Programowanie_aplikacyjne_P\cw9\Golden Rider\Golden Rider\obj\Debug\Golden_Rider.Golden_Rider.resources
+D:\Moje Pliki\Szkoła\4)Politechnika Wrocławska\Semestr 3\Programowanie_aplikacyjne_P\cw9\Golden Rider\Golden Rider\obj\Debug\Golden_Rider.Properties.Resources.resources
+D:\Moje Pliki\Szkoła\4)Politechnika Wrocławska\Semestr 3\Programowanie_aplikacyjne_P\cw9\Golden Rider\Golden Rider\obj\Debug\Golden Rider.csproj.GenerateResource.cache
+D:\Moje Pliki\Szkoła\4)Politechnika Wrocławska\Semestr 3\Programowanie_aplikacyjne_P\cw9\Golden Rider\Golden Rider\obj\Debug\Golden Rider.csproj.CoreCompileInputs.cache
+D:\Moje Pliki\Szkoła\4)Politechnika Wrocławska\Semestr 3\Programowanie_aplikacyjne_P\cw9\Golden Rider\Golden Rider\obj\Debug\Golden Rider.pdb
+D:\Moje Pliki\Szkoła\4)Politechnika Wrocławska\Semestr 3\Programowanie_aplikacyjne_P\cw9\Golden Rider\Golden Rider\bin\Debug\Golden Rider.exe.config
+D:\Moje Pliki\Szkoła\4)Politechnika Wrocławska\Semestr 3\Programowanie_aplikacyjne_P\cw9\Golden Rider\Golden Rider\bin\Debug\Golden Rider.exe
+D:\Moje Pliki\Szkoła\4)Politechnika Wrocławska\Semestr 3\Programowanie_aplikacyjne_P\cw9\Golden Rider\Golden Rider\obj\Debug\Golden Rider.exe
+D:\Moje Pliki\Szkoła\4)Politechnika Wrocławska\Semestr 3\Programowanie_aplikacyjne_P\cw9\Golden Rider\Golden Rider\bin\Debug\Interop.WMPLib.dll
+D:\Moje Pliki\Szkoła\4)Politechnika Wrocławska\Semestr 3\Programowanie_aplikacyjne_P\cw9\Golden Rider\Golden Rider\bin\Debug\AxInterop.WMPLib.dll
+D:\Moje Pliki\Szkoła\4)Politechnika Wrocławska\Semestr 3\Programowanie_aplikacyjne_P\cw9\Golden Rider\Golden Rider\obj\Debug\Interop.WMPLib.dll
+D:\Moje Pliki\Szkoła\4)Politechnika Wrocławska\Semestr 3\Programowanie_aplikacyjne_P\cw9\Golden Rider\Golden Rider\obj\Debug\AxInterop.WMPLib.dll
+D:\Moje Pliki\Szkoła\4)Politechnika Wrocławska\Semestr 3\Programowanie_aplikacyjne_P\cw9\Golden Rider\Golden Rider\obj\Debug\Golden Rider.csproj.ResolveComReference.cache
+D:\Moje Pliki\Szkoła\4)Politechnika Wrocławska\Semestr 3\Programowanie_aplikacyjne_P\cw9\Golden Rider\Golden Rider\obj\Debug\Golden_Rider.Ustawiena.resources
+D:\Moje Pliki\Szkoła\4)Politechnika Wrocławska\Semestr 3\Programowanie_aplikacyjne_P\cw9\Golden Rider\Golden Rider\obj\Debug\Golden_Rider.Menu_Glowne.resources
